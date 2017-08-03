@@ -205,248 +205,248 @@ gtnh.quest50.name=粉碎机 v1.0！ (Macerator v1.0!)
 gtnh.quest50.desc=你总算可以做出一个取代研钵的装置了。无论如何，想要一个不会被消耗掉的装置是需要付出代价的--你需要两颗钻石来做研磨锤。
 
 #Quest_51.Extracting stuff
-gtnh.quest51.name=Extracting stuff
-gtnh.quest51.desc=As you'll need rubber later to make cables from wires, you should get yourself a steam extractor. You can also use this machine to get more dyes from flowers, or process different fruits into juice.
+gtnh.quest51.name=提取东西
+gtnh.quest51.desc=因为你之后会需要橡胶来把导线制作成电缆，你应该搞一台蒸汽提取器。你还可以使用这台机器来从花中获取更多的染料，或将不同的水果加工成果汁。
 
 #Quest_52.A clear view
-gtnh.quest52.name=A clear view
-gtnh.quest52.desc=Are you still living in your dirt/cobblestone bunker? How about letting in some sunlight? Grind up some sand and flint and craft some glass dust. Put it in your smeltery and pour it into a casting basin to make clear glass.\n\nHint: In order to use it for recipes, you have to chisel it.
+gtnh.quest52.name=清晰的视野
+gtnh.quest52.desc=还住在用泥土和圆石做成的火柴盒里？开几扇窗子怎么样？在你的冶炼炉中放入一些沙子，倒入浇铸盆中就可以做成澄澈玻璃。为了将其用于需要玻璃的合成，你需要将其磨成粉，然后在炉子里烧一遍。
 
 #Quest_53.Hammer time v2
-gtnh.quest53.name=Hammer time v2
-gtnh.quest53.desc=Using 6 ingots to craft a hammer seems pretty wasteful, as this tool has durability. How nice would it be to have a machine that does the same but without having durability and using three ingots to make two plates? Guess what, there is one! And you should totally get one.
+gtnh.quest53.name=锤子时间v2
+gtnh.quest53.desc=使用6个金属锭来制作锤子看起来相当浪费，因为这些工具会消耗耐久度。如果你可以让机器做同样的事，而不用担心耐久度的问题，那将会多么好呀？猜的对，真有这么一个机器！你完全应该做一个。
 
 #Quest_54.Compressing stuff
-gtnh.quest54.name=Compressing stuff
-gtnh.quest54.desc=This rather simple device does a very important job: compression. It's main function is to press 9 ingots into a block, but it's also useful for a variety of recipes, for example making firm tofu.
+gtnh.quest54.name=压缩东西
+gtnh.quest54.desc=这个设备非常简单，但它的工作十分重要：压缩。它的主要功能是把9个锭压缩成块，但对于很多合成来说它也是很有用的，例如制作硬豆腐。
 
-#Quest_55.Upgrade: A better compressor
-gtnh.quest55.name=Upgrade: A better compressor
-gtnh.quest55.desc=An updated version of the steam compressor. Uses more steam, but is almost twice as fast. (This quest is optional)
+#Quest_55.Upgrade: Better compressor
+gtnh.quest55.name=升级：更好的压缩机
+gtnh.quest55.desc=蒸汽压缩机的升级版。消耗更多的蒸汽，但几乎有普通版的两倍那么快。(此任务是可选的)
 
 #Quest_56.Upgrade: Forge hammer
-gtnh.quest56.name=Upgrade: Forge hammer
-gtnh.quest56.desc=An updated version of the steam forge hammer. Uses more steam, but is almost twice as fast. (This quest is optional)
+gtnh.quest56.name=升级：锻造锤
+gtnh.quest56.desc=蒸汽锻造锤的升级版。消耗更多的蒸汽，但几乎有普通版的两倍那么快。(此任务是可选的)
 
 #Quest_57.Upgrade: Extractor
-gtnh.quest57.name=Upgrade: Extractor
-gtnh.quest57.desc=An updated version of the steam extractor. Uses more steam, but is almost twice as fast. You most probably want to craft this, as the extractor does also extract your nerves... (This quest is optional)
+gtnh.quest57.name=升级：提取机
+gtnh.quest57.desc=蒸汽提取器的升级版。消耗更多的蒸汽，但几乎有普通版的两倍那么快。你最可能想要合成的一定是它，因为提取机还能提取你的焦虑...(此任务是可选的)
 
 #Quest_58.Upgrade: Better macerator
-gtnh.quest58.name=Upgrade: Better macerator
-gtnh.quest58.desc=An updated version of the steam macerator. Uses more steam, but is almost twice as fast. (This quest is optional)
+gtnh.quest58.name=升级：更好的研磨机
+gtnh.quest58.desc=蒸汽研磨机的升级版。消耗更多的蒸汽，但几乎有普通版的两倍那么快。(此任务是可选的)
 
 #Quest_59.Steam alternatives
-gtnh.quest59.name=Steam alternatives
-gtnh.quest59.desc=There is more than one way to get steam for your machines. This completely optional quest shows you some alternative methods for producing steam.
+gtnh.quest59.name=蒸汽的替代品
+gtnh.quest59.desc=有不止一种方法可以获得蒸汽。这个完全可选的任务将向你展示一些其它获取蒸汽的方法。
 
 #Quest_60.Upgrade: Coal boiler
-gtnh.quest60.name=Upgrade: Coal boiler
-gtnh.quest60.desc=This is basically just an upgrade to your current coal boiler, however it produces more than twice as much steam. Something you should consider building if you're planning to get some of the upgraded machines.
+gtnh.quest60.name=升级：燃煤锅炉
+gtnh.quest60.desc=它只是现有的燃煤锅炉的升级，但它能产出超过两倍的蒸汽。如果你计划升级你的一些机器，就应该考虑造它几个。
 
 #Quest_61.Another use for Java, I mean Lava
-gtnh.quest61.name=Another use for Java, I mean Lava
-gtnh.quest61.desc=With a more durable steel casing, you can use lava to make steam.
+gtnh.quest61.name=Java的另一个用途，我是说Lava
+gtnh.quest61.desc=有了更耐用的钢外壳，你现在可以使用岩浆来生产蒸汽了。
 
 #Quest_62.The power of the sun
-gtnh.quest62.name=The power of the sun
-gtnh.quest62.desc=The sun has quite a bit of power, so why not use it to produce steam? \n\nHint: Just remember that the solar boiler calcifies and becomes less efficient over time.
+gtnh.quest62.name=太阳的能量
+gtnh.quest62.desc=太阳拥有大量的能量，所以为什么不用它来生产蒸汽呢？\n\n提示：太阳能锅炉会积灰，随着时间的推移产出会慢慢减少。
 
 #Quest_63.Using steam to cook things
-gtnh.quest63.name=Using steam to cook things
-gtnh.quest63.desc=A rather slow process, but it's more efficient than using a regular furnace.
+gtnh.quest63.name=用蒸汽煮东西
+gtnh.quest63.desc=这个过程相当的慢，但比使用普通的熔炉更高效。
 
 #Quest_64.Upgrade: Better furnace
-gtnh.quest64.name=Upgrade: Better furnace
-gtnh.quest64.desc=An updated version of the steam furnace. Uses more steam, but is almost twice as fast. (This quest is optional)
+gtnh.quest64.name=升级：更好的熔炉
+gtnh.quest64.desc=蒸汽熔炉的升级版。消耗更多的蒸汽，但几乎有普通版的两倍那么快。(此任务是可选的)
 
 #Quest_65.Blastoff!
-gtnh.quest65.name=Blastoff!
-gtnh.quest65.desc=It's about time to make some steel. Look in the Multiblock Goals quest set and build a bricked blast furnace. Return here when you made at least 8 steel ingots.
+gtnh.quest65.name=发射！
+gtnh.quest65.desc=是时候制造一些钢铁了。查看“多方块构造”任务线并建造一座青铜高炉。当你生产了至少8个钢锭后，再回到这里。
 
 #Quest_66.Time for some logic
-gtnh.quest66.name=Time for some logic
-gtnh.quest66.desc=Good news! You are now able to advance to the next tier! Bad news is: You still have to craft a lot of things before you can begin. Fear not mortal, I shall guide you!
+gtnh.quest66.name=逻辑时间
+gtnh.quest66.desc=好消息是：你现在可以进入下一阶了！坏消息是：在这之前，你还需要制作很多东西。别害怕，凡人，我将指引你！
 
 #Quest_67.Wired, weird?!
-gtnh.quest67.name=Wired, weird?!
-gtnh.quest67.desc=One of the very basic materials which you should memorize how to craft are wires and cables. Basically you just cut a plate into a wire with your wire cutter. Not very efficient, but there will be a better way later.
+gtnh.quest67.name=连线，奇怪？
+gtnh.quest67.desc=你应该记住如何制作导线和线缆，它们是最基础的材料之一。一般来说，你只需用剪线钳将金属板剪成导线就行了。这种方法效率不高，但以后会有更好的办法。
 
 #Quest_68.Your first logic circuit
-gtnh.quest68.name=Your first logic circuit
-gtnh.quest68.desc=Steam machines are quite stupid, they just do one thing over and over again. As you advance into the electrical age, you've decided that you want the machines to have more features, like automatic output in order to create some automation. For that, you need logic circuits.
+gtnh.quest68.name=第一个逻辑电路
+gtnh.quest68.desc=蒸汽机器太笨了，它们只是一遍一遍地重复着同一项工作。进入电气时代，你决定要让机器具有更多的功能，比如自动输出，以便实现一些自动化。为此，你需要逻辑电路。
 
 #Quest_69.Wire-Wrap
-gtnh.quest69.name=Wire-Wrap
-gtnh.quest69.desc=Placing wires without insulation seems to be a bad idea. Now that you have an extractor to extract raw rubber out of sticky resin and an alloy smelter to further process it using sulphur, you should work on getting some insulating rubber sheets.
+gtnh.quest69.name=绝缘线缆
+gtnh.quest69.desc=使用没有绝缘的导线似乎是一个坏主意。现在你有一个提取机，可以从粘性树脂提取生橡胶，还有一个合金炉，可以用硫磺对其进行深加工。你应该从事于生成橡胶板的工作。
 
 #Quest_70.Steam-a-licious!
-gtnh.quest70.name=Steam-a-licious!
-gtnh.quest70.desc=You almost made it. One last crafting step is required in order to advance to Tier 2. Keep going!
+gtnh.quest70.name=美♂味的蒸汽！
+gtnh.quest70.desc=你就要成功了。为了进入第2阶，你还有最后一步合成需要完成。继续前进！
 
 #Quest_71.Basic crafting: Motors
-gtnh.quest71.name=Basic crafting: Motors
-gtnh.quest71.desc=Motors are little devices that can turn electrical power into rotational energy. Very useful for all kind of machines, and not that difficult to craft. The pattern is always the same, only the materials change with tiers.
+gtnh.quest71.name=基础合成：电动马达
+gtnh.quest71.desc=电动马达是能够将电力转化为旋转能的小器件。对于所有类型的机器都非常有用，而且它不是那么难以合成。不同等级的电动马达的合成方法是相似的，只有材料随着等级的变化而变化。
 
 #Quest_72.Basic crafting: Rotors
-gtnh.quest72.name=Basic crafting: Rotors
-gtnh.quest72.desc=Rotors are also crafted using an identical pattern with different materials. A bit annoying to craft at the moment, but you don't need a lot of them anyway.
+gtnh.quest72.name=基础合成：转子
+gtnh.quest72.desc=不同等级的转子的合成方法也是相似的，只是材料不同。现在合成起来有些烦人，不过你也不是需要很多的转子。
 
 #Quest_73.Basic crafting: Casings
-gtnh.quest73.name=Basic crafting: Casings
-gtnh.quest73.desc=All machines need a hull to keep their private parts together. Good news is: They are crafted in the same way for every tier, only the materials change.
+gtnh.quest73.name=基础合成：机械方块
+gtnh.quest73.desc=所有机器都需要一个机箱来保护它们的敏感部件。好消息是：它们每一等级都以相同的方式制作，只有材料发生变化。
 
 #Quest_74.You are not prepared!!!
-gtnh.quest74.name=You are not prepared!!!
-gtnh.quest74.desc=It's time for something really big: A smeltery! There's a lot to craft, so better gather some resources...
+gtnh.quest74.name=你还没准备好！！！
+gtnh.quest74.desc=是时候做个真正的大家伙了：冶炼炉(TiC)！有很多东西需要合成，所以最好先收集一些资源...
 
 #Quest_75.The water dilemma
-gtnh.quest75.name=缺水危机 (The water dilemma)
+gtnh.quest75.name=缺水危机
 gtnh.quest75.desc=有限的水源是一个问题，但不要害怕。我会引导你如何拥有稳定的水源。
 
 #Quest_76.Time to get some steel
-gtnh.quest76.name=Time to get some steel
-gtnh.quest76.desc=You need steel? Uhh... fine. Let's get busy...\n\nHint: The bricked blast furnace can share walls with other ones, just like most GT multi blocks. How will this affect the air quality though...
+gtnh.quest76.name=获得钢材
+gtnh.quest76.desc=你需要钢？呃...好的。我们有得忙的...\n\n(提示：青铜高炉和大多数GT多方块机器一样，它们之间可以共享墙壁。尽管这样做会影响到空气质量...)
 
 #Quest_77.EBF-Time
-gtnh.quest77.name=EBF-Time
-gtnh.quest77.desc=In order to get alumin(i)um ingots, you need an electric blast furnace. It's another very important step towards victory, so let's get started.\n\nGetting the heating coils might be a little tricky...\n\n(You need 2 LV hatches with 4A of 32V total, or 3 LV hatches with MOOOORE power if the multiblock is not fully fixed)
+gtnh.quest77.name=电力高炉时间
+gtnh.quest77.desc=为了得到铝，你需要一个电力高炉。这是通向胜利的另一重要的一步。让我们开始吧。\n\n加热线圈可能会很棘手...\n\n(你需要两个LV级能源输入仓并提供总共4A的LV电流，或者如果你没有修复全部的故障，你就需要三个LV级能源输入仓和更多的电流)
 
 #Quest_78.Upgrade #1: More heat
-gtnh.quest78.name=Upgrade #1: More heat
-gtnh.quest78.desc=Better materials need higher temperatures. You can just exchange the old coils with the new ones. You can even recycle the old coils, how fancy is that!
+gtnh.quest78.name=升级＃1：更多的热量
+gtnh.quest78.desc=更好的材料需要更高的温度。你可以用新的线圈来替换旧的线圈。你甚至可以回收旧的线圈，真棒！
 
 #Quest_79.Upgrade #2: Higher tier
-gtnh.quest79.name=Upgrade #2: Higher tier
-gtnh.quest79.desc=To reach the 3600k heat capacity of your EBF, so you can process high-tier materials like tungsten, you need nichrome heating coils.
+gtnh.quest79.name=升级＃2：更高的等级
+gtnh.quest79.desc=为了使你的电力高炉达到3600k，以便处理钨等高级材料，你需要镍铬合金加热线圈。
 
 #Quest_80.Compress all the things
-gtnh.quest80.name=Compress all the things
-gtnh.quest80.desc=Martin's (DreamMasterXXL) favourite machine. Compress ALL the things! With explosives, of course.
+gtnh.quest80.name=压缩万物
+gtnh.quest80.desc=马丁(DreamMasterXXL，GTNH整合包作者)最喜欢的机器。压缩所有的东西！当然，用炸药。
 
 #Quest_81.At the end of...
-gtnh.quest81.name=At the end of...
-gtnh.quest81.desc=...the universe everything freezes eventually. But waiting for the heat death of the universe might take too long. Therefore we present you the vacuum freezer. It should be good enough to cool your hot stuff. You will need a minimum of 16 frost proof machine casings, the rest depends on your setup.
+gtnh.quest81.name=终结...
+gtnh.quest81.desc=...宇宙的一切终将冻结。但要等待宇宙的死亡未免需要太长的时间了。因此，我们向您推荐真空冷冻机。它应该足以冷却您的热材料。\n\n你需要至少16个隔热机器外壳，剩下的部分取决于你的配置。
 
 #Quest_82.An unexpected Bonus
-gtnh.quest82.name=An unexpected Bonus
-gtnh.quest82.desc=Because we're nice developers, we decided to add a little bonus if you happen to compress charcoal. Not only does it allow you to process more than 16 steel at a time (not in the bricked blast furnace), it also yields 10 times the burn time of a piece of charcoal. So one charcoal for free. This bonus only occurs on the first compression step. (But for fanciness, you should definitely get a quintuple one!)
+gtnh.quest82.name=意想不到的福利
+gtnh.quest82.desc=因为我们是友善的开发者，所以我们决定加入一点小小的福利，在你碰巧把木炭拿去压缩成木炭块的时候。它不仅允许让你一次加工超过16个钢锭(不是在bricked blast furnace里)，还得受益于每块木炭块10倍于木炭的燃烧时间，而不是9倍。所以有一块木炭是免费的。这个加成只在第一次压缩的时候才会出现。(但哪怕是为了好玩，你也一定要制作一个五重压缩的木炭块)
 
 #Quest_83.High speed charcoal
-gtnh.quest83.name=High speed charcoal
-gtnh.quest83.desc=Sure, those coke ovens are nice, but they aren't even remotely fast enough to keep up with a large steam boiler. Luckily, there is an upgrade available! The creosote oil will not be produced, but the process will speed up dramatically. Who needs that nasty yellowish flammable stuff anyway...
+gtnh.quest83.name=高速木炭
+gtnh.quest83.desc=当然，那些焦炉是极好的，但是它们远不能跟上大型蒸汽锅炉的速度。幸运的是，你现在可以获取一个升级版的！杂酚油不再产出，但加工速度会大大地提升。谁还会需要那些浅黄色的恶心东西...
 
-#Quest_84.Where I can put all the liquids?
-gtnh.quest84.name=Where I can put all the liquids?
-gtnh.quest84.desc=With your brand new alloy smelter you are able to combine two materials. What happens if you mix some obsidian dust and glass? Obsidian glass, great. Your first tank that you can make would be a Buildcraft tank. This tank can carry up 16 buckets of a single fluid. It's possible to upgrade those tanks so they can hold up to 64 buckets.
+#Quest_84.Where I can put all the liquids in
+gtnh.quest84.name=我可以把所有的液体都放进去
+gtnh.quest84.desc=使用全新的合金炉，你可以把两种材料结合起来。如果把黑曜石粉和玻璃混合起来会发生什么？黑曜石玻璃，很棒。你可以做的第一个储罐是BC储罐。这种储罐可以容纳16桶的单一液体。这些储罐可以升级，这样就能容纳最多64桶液体了。
 
-#Quest_85.Smelt all the things stack wise...
-gtnh.quest85.name=Smelt all the things stack wise...
-gtnh.quest85.desc=...with this great invention! Uses power to smelt up to 2 stacks of items at once! Can't go any faster! \n\nHint: Parallel smelting depends on coils, consult your local doctor before use.
+#Quest_85.Smelt all the things...
+gtnh.quest85.name=熔化所有的东西...
+gtnh.quest85.desc=...有了这项伟大的发明！用电力可以一次熔炼最多两组物品！不能再快了！(每次熔炼的物品数量取决于线圈，使用前请咨询你的医生)
 
-#Quest_86.Upgrade #3: Upgrade tier 4
-gtnh.quest86.name=Upgrade #3: Upgrade tier 4
-gtnh.quest86.desc=To process more advanced materials like enderium, enriched naquadah or niobium-titanium you need more than 3600K. Time to upgrade your EBF... again.
+#Quest_86.Upgrade #3: Upgrade Tier 4
+gtnh.quest86.name=升级＃3：升级到Tier 4
+gtnh.quest86.desc=要处理更高级的材料，如：末影锭，富集硅岩或铌钛合金，你需要超过3600K的温度。再次升级你的高炉...
 
-#Quest_87.Steel multiblock tanks
-gtnh.quest87.name=Steel multiblock tanks
-gtnh.quest87.desc=Do you want to have tanks that can hold double the amount than that of the iron ones? Go ahead and make a steel tank. All sizes allowed from 3x3x4 to 9x9x8 blocks. \n\nHint: Fluid will auto-output (without any pumps) if you place a valve on the bottom side of the tank.
+#Quest_87.Steel Multiblock Tanks
+gtnh.quest87.name=钢质多方块水槽
+gtnh.quest87.desc=想要双倍容量的蓄水槽？去做一个钢质蓄水槽。尺寸可以从3x3x4到9x9x8。\n\n提示：如果你在底部放了阀门，流体能够自动输出(不需要任何的泵)。
 
 #Quest_88.Welcome to Tier 2
-gtnh.quest88.name=Welcome to Tier 2
-gtnh.quest88.desc=Why, hello there! Seems you've made it into the electrical age. Don't be so quick to throw away your steam machines, you'll probably want to use them until you reach tier 3.
+gtnh.quest88.name=欢迎来到第2阶
+gtnh.quest88.desc=哎呀，你好呢！看来你已经进入了电气时代。但是，请不要扔了你的蒸汽机器。在达到第3阶之前，你可能还需要使用它们。
 
 #Quest_89.Tier 3
-gtnh.quest89.name=Tier 3
-gtnh.quest89.desc=In tier 3, you will be able to craft your first actually "useful" machines. Basic ones do the job, but with MV, a lot more recipes will unlock. Your goal here is to set up stable ore processing for the vast amounts of materials you'll need later on. You also should focus on power production if you haven't already done that.
+gtnh.quest89.name=第3阶
+gtnh.quest89.desc=在第3阶，你将能够制作出第一台真正“有用”的机器。虽然低压机器也能用，但中压机器解锁了一大批合成。你的目标是建立稳定的矿物处理系统，为你以后需要的大量材料做准备。如果你还没专注于发电的话，也请关注一下。
 
 #Quest_90.Damn you, wire cutter!
-gtnh.quest90.name=Damn you, wire cutter!
-gtnh.quest90.desc=Enough is enough. No more wasting gazillions of ingots just for a couple of wires. Now that you have power, you should go for a wiremill!
+gtnh.quest90.name=去死吧，剪线钳！
+gtnh.quest90.desc=够了，再也不用为几根导线去浪费巨量的矿锭了。现在有了电，你应该做一台线材轧机！
 
-#Quest_91.You're gonna hate this #1
-gtnh.quest91.name=You're gonna hate this #1
-gtnh.quest91.desc=The first item you'll need a lot of. If you want to pull items out of chests or barrels you'll need one. \n\nHint: Goes pretty well with item pipes or GT machines, adjust with a screwdriver.
+#Quest_91.You gonna hate this #1
+gtnh.quest91.name=你会讨厌这个＃1
+gtnh.quest91.desc=第一种你非常需要的东西。如果你想将物品从箱子或桶中抽出，你就会需要一个。(跟物品管道或GT机器配合起来非常好，用螺丝刀调整模式)。
 
-#Quest_92.You're gonna hate this #4
-gtnh.quest92.name=You're gonna hate this #4
-gtnh.quest92.desc=The fourth item you'll need a lot of, and is also a pain to craft. Arguably the most painful item ever. \n\nHint: Works like a conveyor but can work with selected item slots, adjust with a screwdriver.
+#Quest_92.You gonna hate this #4
+gtnh.quest92.name=你会讨厌这个＃4
+gtnh.quest92.desc=第三种你非常需要的东西，而且它合成起来非常令人痛苦。可能是目前为止最蛋疼的东西了。(工作起来像输送机，但可以指定物品槽，用螺丝刀调整)
 
-#Quest_93.You're gonna hate this #2
-gtnh.quest93.name=You're gonna hate this #2
-gtnh.quest93.desc=The second item you'll need a lot of. When you want to get fluid out of tanks you'll need one. \n\nHint: Goes pretty well with fluid pipes or GT machines, adjust with a screwdriver. It can also be further upgraded into a fluid regulator that allows precise control of fluid transfer speed.
+#Quest_93.You gonna hate this #2
+gtnh.quest93.name=你会讨厌这个＃2
+gtnh.quest93.desc=第二种你非常需要的东西。当你想要将液体从储罐中抽出时，你需要它。\n\n提示：跟液体管道或GT机器配合的非常好，使用螺丝刀进行调整。它还可以进一步升级为可以精确控制流体传输速度的流体调节器。
 
 #Quest_94.Electric macerator
-gtnh.quest94.name=Electric macerator
-gtnh.quest94.desc=It is highly recommended to get one of these, as the efficiency in terms of coal/steam used to macerate something is a lot better when using EU.
+gtnh.quest94.name=电力研磨机
+gtnh.quest94.desc=强烈推荐做一个，因为在消耗煤/蒸汽方面，使用EU时研磨东西的效率要高的多。
 
-#Quest_95.You're gonna hate this #3
-gtnh.quest95.name=You're gonna hate this #3
-gtnh.quest95.desc=A piston, but more .. "electrical". The third item you are going to craft a lot of in the future.
+#Quest_95.You gonna hate this #3
+gtnh.quest95.name=你会讨厌这个＃3
+gtnh.quest95.desc=活塞，但是它是“电动的”。第四件你将来要合成很多很多的东西。
 
 #Quest_96.Saving redstone
-gtnh.quest96.name=节省红石 (Saving redstone)
+gtnh.quest96.name=节省红石
 gtnh.quest96.desc=厌倦使用四个红石制做含磁电杆了吗？好消息！使用磁化机不需要红石，只需要通电，你不一定要接上电线，这台机器使用电池也能运作得很好。
 
 #Quest_97.Avengers, assemble!
-gtnh.quest97.name=Avengers, assemble!
-gtnh.quest97.desc=An absolute must have for fans of the movie. Oh, and to make all the things, of course.
+gtnh.quest97.name=复仇者，组装！
+gtnh.quest97.desc=电影粉丝绝对必须要拥有它。哦，当然要用来做所有的东西。
 
 #Quest_98.No more filing
-gtnh.quest98.name=No more filing
-gtnh.quest98.desc=Why waste a full ingot to make a rod by using a tool which loses durability and takes even MORE ingots? With this little device, all your rod-needs shall be fulfilled (for now).
+gtnh.quest98.name=不要再锉
+gtnh.quest98.desc=为什么要耗费一个完整的锭来制作杆？而且还需要使用一种消耗耐久的工具，导致花费了更多的金属锭。有了这个小装置，你所需要的所有的杆都会被完整地加工出来(对于现在)。
 
 #Quest_99.Bzzz... Whoom...
-gtnh.quest99.name=Bzzz... Whoom...
-gtnh.quest99.desc=Making etched wires for good circuits requires a precision laser engraver.
+gtnh.quest99.name=噗呲~~~
+gtnh.quest99.desc=为了给不错的电路板制作蚀刻电路，你需要一台精密激光蚀刻机。
 
 #Quest_100.Press all the things
-gtnh.quest100.name=Press all the things
-gtnh.quest100.desc=If you want to make basic circuits more efficiently you can using the forming press. But for the good circuits you actually need it.
+gtnh.quest100.name=冲压万物
+gtnh.quest100.desc=如果你想要更高效地生产基础电路板，你可以使用冲压机床。但为了不错的电路板，你确实需要它。
 
-#Quest_101.Mjolnir!!! (electric forge hammer)
-gtnh.quest101.name=雷神之锤！Mjolnir!!! (电力锻造锤 electric forge hammer)
+#Quest_101.Mjolnir!!! (Electric Forge Hammer)
+gtnh.quest101.name=雷神之锤！！！(电力锻造锤)
 gtnh.quest101.desc=非必须品，但这比蒸气锻造锤快得多，并可以自动化。如果你觉得洗矿太慢、使用这锻造锤吧。蒸气等级的锻造锤就可以完成所有需要的加工。
 
 #Quest_102.Cutting things apart
-gtnh.quest102.name=切割 (Cutting things apart)
+gtnh.quest102.name=切割
 gtnh.quest102.desc=绝对必要的机器。能将杆切成螺栓、板切成外壳、原木切成木材、并且是最高效率。完全值回票价！提示：加点水吧！
 
 #Quest_103.Get ready for Tier 3
-gtnh.quest103.name=准备第3阶 (Get ready for Tier 3)
+gtnh.quest103.name=准备第3阶
 gtnh.quest103.desc=为了进一步发展，你需要铝。非常多的铝。但现在只需要一个铝粉来完成这任务。黏土可能是最好的铝来源。但那需要MV级机器，现在你需要找替代方案，直到你有足够的铝粉来完成准备工作。
 
 #Quest_104.Your magic progression
-gtnh.quest104.name=学习魔法 (our magic progression)
+gtnh.quest104.name=学习魔法
 gtnh.quest104.desc=现在你可以炼铝，可以开始研究魔法。如果你还没解锁神秘任务。找到银树树苗跟宏伟巨树。
 
 #Quest_105.The missing one
-gtnh.quest105.name=缺少的一环 (The missing one)
+gtnh.quest105.name=缺少的一环
 gtnh.quest105.desc=曾有人说...<basdxz> 管他的！把卷板机加进LV级任务...然后他就在那了。
 
 #Quest_106.Your first automation
-gtnh.quest106.name=第一个自动化 (Your first automation)
+gtnh.quest106.name=第一个自动化
 gtnh.quest106.desc=好吧，也许不是第一次。但一定很重要！首先，你需要一台矿车组装机。
 
 #Quest_107.Cart modules: Power
-gtnh.quest107.name=Cart modules: Power
-gtnh.quest107.desc=Your cart needs power, obviously. A cart can be powered via solar or lava. But for now you have to use a simple coal engine.
+gtnh.quest107.name=矿车模块：能源
+gtnh.quest107.desc=你的矿车显然需要能量。矿车可以通过太阳能或岩浆供能。但现在你只能用简单的燃煤引擎。
 
 #Quest_108.Automated (un-)loading
-gtnh.quest108.name=Automated (un-)loading
-gtnh.quest108.desc=You can fill and empty your cart manually, but it's a lot more convenient to automate item transfer, isn't it?
+gtnh.quest108.name=自动装(卸)载
+gtnh.quest108.desc=你可以手动填充和清空你的矿车，但自动化物品转移更方便，不是吗？
 
 #Quest_109.Cart modules: Farming
-gtnh.quest109.name=Cart modules: Farming
-gtnh.quest109.desc=Unfortunately, the basic farmer can't farm anything besides wheat. It's not expensive at all, and probably the cheapest solution to give your automated food production a nice boost.
+gtnh.quest109.name=矿车模块：农业
+gtnh.quest109.desc=不幸的是，基础农业除了小麦以外什么都不能种。它并不贵，也许是最便宜的自动化食物生产方法。
 
 #Quest_110.Cart modules: Storage
-gtnh.quest110.name=Cart modules: Storage
-gtnh.quest110.desc=A basic cart can't hold any items, so you need to attach special chests to it.
+gtnh.quest110.name=矿车模块：存储
+gtnh.quest110.desc=一个基础的矿车不能容纳任何物品，所以你需要附上特别的箱子。
 
 #Quest_111.A simple cart
-gtnh.quest111.name=A simple cart
-gtnh.quest111.desc=In order to create or customize your cart you need a hull to attach your desired upgrades to. The wooden one can be used for really simple applications, but to farm wheat or wood, you need at least an iron one.
+gtnh.quest111.name=简单的矿车
+gtnh.quest111.desc=为了创建或定制你的矿车，你需要一个车厢来附加所需的升级。木制的可以用于非常简单的应用，但是要种植小麦或树木，你至少需要一个铁的。
 
 #Quest_112.Cart modules: Wood cutter
 gtnh.quest112.name=Cart modules: Wood cutter
