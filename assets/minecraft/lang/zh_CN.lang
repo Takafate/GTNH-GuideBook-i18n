@@ -430,219 +430,219 @@ gtnh.quest106.desc=好吧，也许不是第一次。但一定很重要！首先�
 
 #Quest_107.Cart modules: Power
 gtnh.quest107.name=矿车模块：能源
-gtnh.quest107.desc=你的矿车显然需要能量。矿车可以通过太阳能或岩浆供能。但现在你只能用简单的燃煤引擎。
+gtnh.quest107.desc=你的矿车显然需要能量。矿车可以通过太阳能或岩浆供能。但现在你只能用简单的煤炭引擎。
 
 #Quest_108.Automated (un-)loading
 gtnh.quest108.name=自动装(卸)载
-gtnh.quest108.desc=你可以手动填充和清空你的矿车，但自动化物品转移更方便，不是吗？
+gtnh.quest108.desc=你可以手动填充和清空你的矿车，但自动化转移物品更方便，不是吗？
 
 #Quest_109.Cart modules: Farming
 gtnh.quest109.name=矿车模块：农业
 gtnh.quest109.desc=不幸的是，基础农业除了小麦以外什么都不能种。它并不贵，也许是最便宜的自动化食物生产方法。
 
 #Quest_110.Cart modules: Storage
-gtnh.quest110.name=矿车模块：存储
-gtnh.quest110.desc=一个基础的矿车不能容纳任何物品，所以你需要附上特别的箱子。
+gtnh.quest110.name=矿车模块：储存
+gtnh.quest110.desc=一个基础的矿车不能容纳任何物品，所以你需要附上特殊的箱子。
 
 #Quest_111.A simple cart
 gtnh.quest111.name=简单的矿车
-gtnh.quest111.desc=为了创建或定制你的矿车，你需要一个车厢来附加所需的升级。木制的可以用于非常简单的应用，但是要种植小麦或树木，你至少需要一个铁的。
+gtnh.quest111.desc=为了组装或定制你的矿车，你需要一个车壳来附加所需的升级。木制的可以用于非常简单的应用，但要种植小麦或树木，你至少需要一个铁的。
 
 #Quest_112.Cart modules: Wood cutter
-gtnh.quest112.name=Cart modules: Wood cutter
-gtnh.quest112.desc=The basic wood cutter will break after a while, but you never have to replace it. It can easily be repaired with diamonds.
+gtnh.quest112.name=矿车模块：伐木
+gtnh.quest112.desc=基础伐木机用一段时间之后就会坏，但是你永远都不需要更换它。它可以很容易地用钻石修复。
 
 #Quest_113.Basic transport pipe
-gtnh.quest113.name=Basic transport pipe
-gtnh.quest113.desc=These pipes are rather simple and won't do anything on their own. But in combination with transfer nodes, you'll soon find out how great they are. Also, given the correct upgrades, they even surpass most other transfer systems.
+gtnh.quest113.name=基础运输管道
+gtnh.quest113.desc=这些管道非常简单，它们本身不会做任何事情。但是结合传输节点，你很快会发现它们有多棒。此外，给予节点恰当的升级，它们甚至能超越其它大多数的物流系统。
 
 #Quest_114.Basic transport: Items
-gtnh.quest114.name=Basic transport: Items
-gtnh.quest114.desc=In order to transfer items, you need so called "nodes". There are some for pushing items into a pipe system, and later you'll have access to nodes that are able to pull items from attached inventories.
+gtnh.quest114.name=基础运输：物品
+gtnh.quest114.desc=为了传输物品，你需要所谓的“节点”。一些用于将物品推入管道系统。之后你将可以接触到能够从连接到的容器中抽取物品的节点。
 
 #Quest_115.Basic transport: Fluids
-gtnh.quest115.name=Basic transport: Fluids
-gtnh.quest115.desc=Just like item nodes, liquid nodes transfer... liquids. But probably the best thing: They can all utilize the same transfer pipe!
+gtnh.quest115.name=基础运输：液体
+gtnh.quest115.desc=就像物品节点一样，液体节点转移液体。最棒的一点可能是：它们可以使用同一根传输管道！
 
-#Quest_116.Alloy smelter
-gtnh.quest116.name=Alloy smelter
-gtnh.quest116.desc=Upgrade your steam alloy smelter to a LV one.
+#Quest_116.Alloy Smelter
+gtnh.quest116.name=合金炉
+gtnh.quest116.desc=将你的蒸汽合金炉升级到LV。
 
 #Quest_117.Gotta catch 'em all
-gtnh.quest117.name=Gotta catch 'em all
-gtnh.quest117.desc=Sure, you can use wheat/potatoes/carrots to make animals follow you back to your base, but that can be tedious. A golden lasso is a proper solution for animal transportation.
+gtnh.quest117.name=抓住它们
+gtnh.quest117.desc=当然，你可以用小麦/土豆/胡萝卜使动物跟随你回到你的基地，但那样太无聊了。金色套索才是转移动物的正确姿势。
 
 #Quest_118.Basic monster protection
-gtnh.quest118.name=Basic monster protection
-gtnh.quest118.desc=Spawning monsters in or near your base can be annoying. Especially if you happen to get infernal creepers. Luckily, there is a good way to prevent them from spawning at all.
+gtnh.quest118.name=基础怪物防护
+gtnh.quest118.desc=在你基地附近生成的怪物太烦人了，特别是当你碰到火焰爬行者的时候。幸运的是，有一种方法可以阻止它们生成。
 
 #Quest_119.A quite different storage
-gtnh.quest119.name=A quite different storage
-gtnh.quest119.desc=Regular chests can fill up rather quickly if you happen to collect mob drops like swords and/or armor. By using a cabinet, you can store up to 270 items of the same type.
+gtnh.quest119.name=完全不同的存储
+gtnh.quest119.desc=如果你收集了怪物掉落的剑或者护甲，那么普通的箱子很快就会被填满。使用文档柜，可以存储最多270个相同类型的东西。
 
 #Quest_120.Protect your base; Tier 1
-gtnh.quest120.name=Protect your base; Tier 1
-gtnh.quest120.desc=One needs proper protection for ones home. So why not get some turrets for safety? At the moment, 2 Turrets are available: "Potato" and "disposable item". I assume you can guess what they do and how they work...
+gtnh.quest120.name=保护你的基地：第1级
+gtnh.quest120.desc=一个人要用适当的方式来保卫他的家。那么为什么不用炮塔来保卫安全呢？目前有2种炮塔可供选择：“土豆”和“一次性物品”。我想你能猜到它们是用来干什么的，以及它们是如何工作的。
 
 #Quest_121.Passive defence
-gtnh.quest121.name=Passive defence
-gtnh.quest121.desc=A more "passive" approach to base defence are walls and fences. But seriously, where is the fun in that?
+gtnh.quest121.name=被动防御
+gtnh.quest121.desc=围墙和栅栏是更加被动的基地防御。但说真的，这东西有什么意思？
 
 #Quest_122.Turret base
-gtnh.quest122.name=Turret base
-gtnh.quest122.desc=Turrets must be placed on top of a turret base. Only the player who initially placed the base can access and configure the turret. So don't worry about people taking your ammunition.
+gtnh.quest122.name=炮塔基座
+gtnh.quest122.desc=炮塔必须放在炮塔基座的顶部。只有最初放置基座的玩家可以访问和配置炮塔。所以别担心别人拿走了你的弹药。
 
 #Quest_123.Who needs that dirt anyway
-gtnh.quest123.name=Who needs that dirt anyway
-gtnh.quest123.desc=You probably have a ton of items floating around in your base. So why not use them to kill your enemies?
+gtnh.quest123.name=谁还需要那些垃圾
+gtnh.quest123.desc=你可能有很多东西漂浮着你的基地周围。那么为什么不用它来杀死敌人呢？
 
-#Quest_124.Don't play with your food!
-gtnh.quest124.name=不要玩食物！(Don't play with your food!)
+#Quest_124.Don't play with food!
+gtnh.quest124.name=不要玩食物！
 gtnh.quest124.desc=利用它来杀些僵尸。噢，只造成了一咪咪伤害……但，呵呵，谁在乎啊？
 
 #Quest_125.Upgrading intensifies
-gtnh.quest125.name=Upgrading intensifies
-gtnh.quest125.desc=Your turrets probably need more space to hold more ammunition, so why not get an upgrade for that?
+gtnh.quest125.name=强化升级
+gtnh.quest125.desc=你的炮塔可能需要更多的空间来容纳更多的弹药，那为什么不做一个升级呢？
 
 #Quest_126.Electrolysing all the things
-gtnh.quest126.name=Electrolysing all the things
-gtnh.quest126.desc=Collected a lot of dusts since you started with macerating, washing and centrifuging ores? Until now you couldn't separate them. It's time to get all the pure and valuable materials out of them.
+gtnh.quest126.name=电解所有的东西
+gtnh.quest126.desc=自从你开始磨粉，洗矿和离心矿石，你收集了很多粉末。到目前为止，你还不能分解它们。现在是时候从它们中获取纯净的组分和有用的材料了。
 
-#Quest_127.Project red begging
-gtnh.quest127.name=Project red begging
-gtnh.quest127.desc=First of all there are 3 types of pipes: null logic, pressurized and routed.\n-Null Logic are the most basic kind. They can't have any logical thinking. Item transport pipes are of this category and they are used to craft and connect the routed and pressurized pipes. It would be a wise choice to craft some extras.\n \n-Routed pipes are the most advanced. They can communicate with each other in order to create pipe networks, and can be used for very complex tasks.\n \n-Pressurized pipes are too complicated to use and explain. You won't need them anyway since you can use the routed ones to do anything you want.\n\nHowever, in order to control the logic of the routed pipes you will need special circuit chips.
+#Quest_127.Project Red Begging
+gtnh.quest127.name=红石计划请求
+gtnh.quest127.desc=首先，总共有三种类型的管道：空逻辑，加压和路由。\n空逻辑管道是最基础的一种，它们没有任何的逻辑行为。物品运输管道属于这种类型，它们用于制造或连接路由管道和加压管道。多准备一些物品运输管道是一个明智的选择\n\n路由管道是最高级的。它们可以相互通信，以便创建管道网络，并可用于非常复杂的任务。\n\n加压管道解释和使用起来太复杂了，你不会需要它们的，因为你可以用路由管道完成任何你想要做的任何事情。\n\n然而，为了控制路由管道的逻辑，你还会需要芯片。
 
 #Quest_128.Ender not-so-IO
-gtnh.quest128.name=Ender not-so-IO
-gtnh.quest128.desc=You've probably used EnderIO before. It's quite useful for a lot of things. But a lot of stuff has changed here, so let's start from scratch.
+gtnh.quest128.name=末影难以接口
+gtnh.quest128.desc=你以前可能用过末影接口。对很多事情来说，它都是非常有用的。但在这里，很多东西都变了，所以让我们从头开始吧。
 
 #Quest_129.Machine chassis
-gtnh.quest129.name=Machine chassis
-gtnh.quest129.desc=All EnderIO machines still require the basic chassis, and it's almost the same recipe as before; Except that you need plates instead of ingots. But that shouldn't be a problem at all...
+gtnh.quest129.name=机器框架
+gtnh.quest129.desc=所有末影接口的机器都需要机器框架，它的合成配方跟以前几乎是一样的，除了你需要的是板而不是锭。但这应该不成问题...
 
 #Quest_130.Portable tanks
-gtnh.quest130.name=Portable tanks
-gtnh.quest130.desc=Until now, you where required to use buildcraft tanks to carry liquids around. Which can be a pain to do. These little tanks are able to push and pull liquids by themselves, as they have a built-in pump which is powered by some magic energy source. How convenient.
+gtnh.quest130.name=便携式储罐
+gtnh.quest130.desc=在此之前，你还要用BC储罐来带液体到处跑，这事干起来真叫一个痛苦。这些小储罐能够自己输出和抽进液体，因为它们内置了一些由魔法能源驱动的泵，真方便。
 
-#Quest_131.Simple RF power: Solid
-gtnh.quest131.name=Simple RF power: Solid
-gtnh.quest131.desc=By simply burning coal as fuel, this machine produces RF power. Enough for a basic machine setup. (Still, GT wiring and transformers can transform EU to RF)
+#Quest_131.Simple RF-Power: Solid
+gtnh.quest131.name=RF能量：固体
+gtnh.quest131.desc=这台机器能通过燃烧煤炭作为燃料产生RF能量，足够供给你的基础机器。(GT导线和变压器仍然可以将EU转换为RF)
 
-#Quest_132.Simple RF power: Liquids
-gtnh.quest132.name=Simple RF power: Liquids
-gtnh.quest132.desc=This generator requires both water as coolant, and a burnable liquid as fuel. The amount of power it produces depends on the type of liquid used.
+#Quest_132.Simple RF-Power: Liquids
+gtnh.quest132.name=RF能量：液体
+gtnh.quest132.desc=这台发电机需要作为冷却剂的水和作为燃料的可燃液体，它发电的功率取决于使用的液体。
 
 #Quest_133.The power of enderman
-gtnh.quest133.name=The power of enderman
-gtnh.quest133.desc=Elevators are nice, but they are limited to vertical teleportation, and their range is also somewhat limited. Travel anchors do not have that limitation. You can teleport from one anchor to any other within range. You can name them and even set them as private.
+gtnh.quest133.name=末影人的力量
+gtnh.quest133.desc=电梯是好的，但它们仅限于垂直传送，作用范围也有限。旅行锚没有这个限制。你可以从一个锚传送到一定范围内的任何其他锚。你可以命名它们，甚至把它们设为私人的。
 
 #Quest_134.Conduits
-gtnh.quest134.name=Conduits
-gtnh.quest134.desc=Probably the most awesome way to transport just anything in multiple different ways. Get some conduits of each type.
+gtnh.quest134.name=导管
+gtnh.quest134.desc=这可能是多种传输方式中最棒的一种，每一种都做一些吧。
 
 #Quest_135.Yet another wrench
-gtnh.quest135.name=Yet another wrench
-gtnh.quest135.desc=The Yeta Wrench is more than just a regular wrench. While holding it, you are able to switch between conduit types, eventually allowing you to remove one specific conduit type from a bundle of many. Ctrl-Mousewheel will switch modes, also Shift-Leftclick allows you to open the configuration interface even if you don't have access to that side of the conduit.
+gtnh.quest135.name=又一个扳手
+gtnh.quest135.desc=以太扳手不仅仅是一个普通的扳手。在握住它的同时，你可以在管道类型之间切换，允许你从许多管道中移除一个特定类型的管道，按住Ctrl+滚动鼠标滚轮可以切换模式。即使你无法接触到管道的另一侧，Shift+左键也可以打开配置界面。
 
 #Quest_136.Improving conduits
-gtnh.quest136.name=Improving conduits
-gtnh.quest136.desc=Conduits on their own are pretty awesome, but you can do better. By using filters and speed upgrades, you gain even more control over what they do and how fast they work.
+gtnh.quest136.name=升级导管
+gtnh.quest136.desc=导管本身是非常棒的，但你可以做得更好。通过使用过滤器和速度升级，你可以更好地控制它们的工作和工作速度。
 
 #Quest_137.Making things pretty
-gtnh.quest137.name=Making things pretty
-gtnh.quest137.desc=While conduits on their own are already awesome, you can also hide them if you want. There are 2 types of facades, basic and hardened. While basic ones are simple and easy, the reinforced ones are able to withstand explosions and mining with tools. You have to use your Yeta Wrench to remove it.
+gtnh.quest137.name=变得漂亮
+gtnh.quest137.desc=虽然管道本身已经很棒了，如果你想要的话，你也可以隐藏它们。有两种类型的导管框架，基础的和硬化的。虽然基础的简单易用，但是硬化的能够抵御爆炸和工具的挖掘。你必须使用你的以太扳手来移除它。
 
 #Quest_138.Come to the dark side...
-gtnh.quest138.name=Come to the dark side...
-gtnh.quest138.desc=...we have cookies.
+gtnh.quest138.name=来到黑暗面...
+gtnh.quest138.desc=...我们有饼干。
 
 #Quest_139.Luke, I'm your father
-gtnh.quest139.name=Luke, I'm your father
-gtnh.quest139.desc=With that dark steel you got, you may now craft yourself a new set of armor. While pretty basic at first, it can be upgraded later to unlock powerful features.
+gtnh.quest139.name=卢克，我是你的父亲
+gtnh.quest139.desc=有了玄钢，你现在可以制作一套新的护甲了。它在开始的时候非常基础，但它以后可以升级以解锁强大的功能。
 
 #Quest_140.Dark steel tools
-gtnh.quest140.name=Dark steel tools
-gtnh.quest140.desc=There are also tools made of dark steel. Each of them can receive upgrades. Hold shift to get the tooltip which will explain what you need in order to upgrade them.
+gtnh.quest140.name=玄钢工具
+gtnh.quest140.desc=还有玄钢制成的工具。它们都可以接受升级。按住shift以获得工具提示，它会解释你需要用什么来给工具升级。
 
 #Quest_141.Basic upgrades
-gtnh.quest141.name=Basic upgrades
-gtnh.quest141.desc=In order to upgrade your armor and tools, you need 10 Levels each, but also 8 Vibrant crystals.
+gtnh.quest141.name=基础升级
+gtnh.quest141.desc=为了升级你的护甲和工具，你需要10级经验，还有8个充能晶体。
 
 #Quest_142.Brewing liquids
-gtnh.quest142.name=Brewing liquids
-gtnh.quest142.desc=This machine is not only capable of brewing more powerful burnable liquids, it can also be used to brew nutrient distillation, which might have further usage soon(tm).
+gtnh.quest142.name=酿造液体
+gtnh.quest142.desc=这种机器不仅能够酿造更强大的可燃液体，还可用于酿造营养精华液，可能很快(tm)就有用了。
 
 #Quest_143.Smelting all-joy
-gtnh.quest143.name=Smelting all-joy
-gtnh.quest143.desc=This combination smelter allows you to produce fused quartz and quite clear glass of all variants.
+gtnh.quest143.name=熔炼乐趣
+gtnh.quest143.desc=这种合金炉允许你生产各种石英玻璃和纯净玻璃。
 
 #Quest_144.Automated crafting
-gtnh.quest144.name=Automated crafting
-gtnh.quest144.desc=You know yet another automated crafting solution...
+gtnh.quest144.name=自动合成
+gtnh.quest144.desc=你了解的另一个自动合成方法...
 
 #Quest_145.Ore processing kind of...
-gtnh.quest145.name=Ore processing kind of...
-gtnh.quest145.desc=Maceration versus sag milling, the war still rages on with no end in sight.
+gtnh.quest145.name=一种矿物处理...
+gtnh.quest145.desc=研磨机与SAG研磨，战争仍在继续。
 
 #Quest_146.Torture device
-gtnh.quest146.name=Torture device
-gtnh.quest146.desc=When the subjects don't want to cooperate.
+gtnh.quest146.name=酷刑装置
+gtnh.quest146.desc=当臣民们不愿合作时...
 
-#Quest_147.Rocket fuel
-gtnh.quest147.name=Rocket fuel
-gtnh.quest147.desc=Rocket fuel are used in the future for galacticraft rockets. It does generate quite a bit of power. Use your chemical reactor to make some. Will generate 160 RF/t when used in a combustion generator or 112,000 eu per cell.
+#Quest_147.Not for rockets...
+gtnh.quest147.name=不适用于火箭...
+gtnh.quest147.desc=它声称是火箭燃料，但它不是。然而，它确实能产出相当多的能量。用你的化学反应器来做一些。在燃烧发电机中使用时，它能产出160RF/t。
 
 #Quest_148.Tasty...
-gtnh.quest148.name=Tasty...
-gtnh.quest148.desc=Yeah, that is... Well.. You are sure it will have an usage for something... some day... eventually... maybe...
+gtnh.quest148.name=美味的...
+gtnh.quest148.desc=嗯，是的...好吧，你确信它在...某一天...最终...会有一些用途的，大概。
 
 #Quest_149.Firewater
-gtnh.quest149.name=Firewater
-gtnh.quest149.desc=Not exactly what you think it is. Better to not consume that liquid. When used in the Combustion Generator, it will produce 80 RF/t.
+gtnh.quest149.name=消防用水
+gtnh.quest149.desc=不完全是你所认为的那样。最好不要消耗这种液体。在燃烧发电机中使用时，它能产出80RF/t。
 
 #Quest_150.Hootch
-gtnh.quest150.name=Hootch
-gtnh.quest150.desc=The lowest tier of renewable, burnable fluid. Generates 60 RF/t, but can be automated for "green" infinite power.
+gtnh.quest150.name=烈酒
+gtnh.quest150.desc=最低级的，可再生的可燃液体。产出60RF/t，但可以实现自动化的“绿色”能源。
 
-#Quest_151.Automated mob-farming
-gtnh.quest151.name=Automated mob-farming
-gtnh.quest151.desc=Of course... zombies loves that... disgusting liquid. While using a small amount per hit, he will attack everything that is within his range. That also includes players, so be careful. Rumors are, that there might be a weapon that will never break when used in this "machine"...
+#Quest_151.Automated Mob-Farming
+gtnh.quest151.name=自动化怪物农场
+gtnh.quest151.desc=当然，僵尸喜欢那种恶心的液体。它会攻击处于它范围内的一切，每次攻击时消耗少量的液体。它也会攻击玩家，所以要小心。谣言说，有一种武器在这个“机器”中使用时永远不会损坏...
 
 #Quest_152.And it will never break
-gtnh.quest152.name=And it will never break
-gtnh.quest152.desc=By using an etheric sword, your killer joe will run.. forever. Proper enchantments are a requirement for it to be efficient, but that shouldn't be a problem.
+gtnh.quest152.name=它永远不会损坏
+gtnh.quest152.desc=用天域之剑，你的杀手乔将永远运作下去。适当的附魔能让其更有效率，但这应该不成问题。
 
 #Quest_153.Simple item transfer
-gtnh.quest153.name=Simple item transfer
-gtnh.quest153.desc=Translocators can only transfer items over a distance of 1 block. But they're quite cheap, and a good solution to build compact machine setups.
+gtnh.quest153.name=简单的物品转移
+gtnh.quest153.desc=转运器只能在1格的距离内转移物品。但它们相当便宜，是构建紧凑型机组的好帮手。
 
 #Quest_154.Simple fluid transfer
-gtnh.quest154.name=Simple fluid transfer
-gtnh.quest154.desc=Just like the item translocators, the fluid ones transfer... fluids. Same restrictions apply, 1 block distance.
+gtnh.quest154.name=简单的流体转移
+gtnh.quest154.desc=就像物品转运器一样，液体转运器转移液体。相同的使用限制，1格距离。
 
 #Quest_155.Harder, stronger, faster
-gtnh.quest155.name=Harder, stronger, faster
-gtnh.quest155.desc=No, actually not faster. But more durable than tier 1.
+gtnh.quest155.name=更硬，更强，更快
+gtnh.quest155.desc=不，实际上并不会更快。但它比1级的更耐用。
 
-#Quest_156.Protect your base: Tier 2
-gtnh.quest156.name=Protect your base: Tier 2
-gtnh.quest156.desc=Slightly better protection. Now with a real gun. No more wasting food.
+#Quest_156.Protect your base; Tier 2
+gtnh.quest156.name=保护你的基地：第2级
+gtnh.quest156.desc=稍微好一点的防护措施。现在有了真枪实弹，不用再浪费食物啦。
 
 #Quest_157.Tier 2 turret base
-gtnh.quest157.name=Tier 2 turret base
-gtnh.quest157.desc=Nothing to see here. Proceed...
+gtnh.quest157.name=二级炮塔基座
+gtnh.quest157.desc=没什么好看的。继续...
 
 #Quest_158.Sometimes, a bullet will do
-gtnh.quest158.name=Sometimes, a bullet will do
-gtnh.quest158.desc=They hit hard. You have been warned.
+gtnh.quest158.name=有时，一发子弹就行
+gtnh.quest158.desc=它们打的真疼。已经警告过你了。
 
 #Quest_159.Burn them. Burn them all!
-gtnh.quest159.name=Burn them. Burn them all!
-gtnh.quest159.desc=Hmmm, crispy bacon. What would happen if you enable neutral mobs as targeting...?
+gtnh.quest159.name=烧死他们，全都烧死！
+gtnh.quest159.desc=嗯，酥脆的培根。如果你将中立的生物作为目标，会发生什么？
 
 #Quest_160.Tier 4
-gtnh.quest160.name=Tier 4
-gtnh.quest160.desc=Your first hull as usual...
+gtnh.quest160.name=第4级
+gtnh.quest160.desc=照例是第一个机器外壳...
 
 #Quest_161.Paying the highest price
 gtnh.quest161.name=Paying the highest price
